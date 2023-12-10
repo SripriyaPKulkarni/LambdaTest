@@ -46,7 +46,7 @@ public class HiddenElementsDemo {
     @Test
     public void basicTest() throws InterruptedException {
         // navigating to the application under test
-        driver.get("https://sripriyapkulkarni.com/");
+        driver.get("http://sripriyapkulkarni.in/");
  
         // maximize window
         driver.manage().window().maximize();
